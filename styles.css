@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+#button{
+	background:skyblue;
+	color:black;
+	padding:3px;
+}
